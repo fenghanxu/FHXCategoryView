@@ -1,0 +1,22 @@
+PODS:
+  - FHXCategoryView (0.1.0):
+    - SnapKit
+  - SnapKit (4.0.0)
+  - Then (2.3.0)
+
+DEPENDENCIES:
+  - FHXCategoryView (from `../`)
+  - Then
+
+EXTERNAL SOURCES:
+  FHXCategoryView:
+    :path: ../
+
+SPEC CHECKSUMS:
+  FHXCategoryView: 480eb7f357c3eb370ef7f26eeafae4507c1322a5
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  Then: ee21c97b85ff6062b9b0080c9abb1eea46743345
+
+PODFILE CHECKSUM: b0389c714942d748a3d966187d3ed5850664ebe9
+
+COCOAPODS: 1.4.0

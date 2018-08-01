@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'FHXCategoryView_Example' do
+  pod 'FHXCategoryView', :path => '../'
+
+  target 'FHXCategoryView_Tests' do
+    inherit! :search_paths
+
+    
+  end
+  
+  pod 'Then'
+  
+end

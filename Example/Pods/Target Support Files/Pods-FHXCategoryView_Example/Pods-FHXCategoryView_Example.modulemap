@@ -1,0 +1,6 @@
+framework module Pods_FHXCategoryView_Example {
+  umbrella header "Pods-FHXCategoryView_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+framework module FHXCategoryView {
+  umbrella header "FHXCategoryView-umbrella.h"
+
+  export *
+  module * { export * }
+}
